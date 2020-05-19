@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Vector2D", "Vector2D.vcxproj", "{74E5384C-9153-4FD5-A98A-8519F755A482}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C88A394B-B2A5-4E4C-9A78-0B98168A6249}"
+	ProjectSection(SolutionItems) = preProject
+		matrix33.h = matrix33.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Debug|x64.ActiveCfg = Debug|x64
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Debug|x64.Build.0 = Debug|x64
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Debug|x86.ActiveCfg = Debug|Win32
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Debug|x86.Build.0 = Debug|Win32
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Release|x64.ActiveCfg = Release|x64
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Release|x64.Build.0 = Release|x64
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Release|x86.ActiveCfg = Release|Win32
+		{74E5384C-9153-4FD5-A98A-8519F755A482}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {731CA785-0595-44BC-A87B-83F3101A49D6}
+	EndGlobalSection
+EndGlobal

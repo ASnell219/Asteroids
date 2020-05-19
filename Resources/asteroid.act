@@ -1,0 +1,10 @@
+Asteroid
+{ 200.0f, 100.0f }
+10.0f
+10.0f
+{
+resources\asteroid.mdl
+}
+{ 0.5f, 0.5f }
+200.0f
+170.0f

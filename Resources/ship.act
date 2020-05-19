@@ -1,0 +1,11 @@
+Ship
+{ 400.0f, 300.0f }
+30.0f
+3.0f
+{
+resources\ship.mdl
+resources\ship_flame.mdl
+}
+{ 0.5f, 0.5f }
+150.0f
+170.0f
